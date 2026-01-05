@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Theme pour l'application en mode nuit -->
+    <style name="Theme.CostumesApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Vous pouvez ajuster les couleurs pour le mode nuit -->
+
+        <item name="colorPrimaryDark">@color/purple_500</item>
+        <item name="colorAccent">@color/teal_200</item>
+
+
+
+
+    </style>
+
+
+</resources>

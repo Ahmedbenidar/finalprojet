@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Item de rafraîchissement -->
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@android:drawable/ic_popup_sync"
+        android:title="Rafraîchir"
+        app:showAsAction="ifRoom" />
+
+    <!-- Item de déconnexion -->
+    <item
+        android:id="@+id/action_logout"
+        android:icon="@android:drawable/ic_lock_lock"
+        android:title="Déconnexion"
+        app:showAsAction="never" />
+
+</menu>
