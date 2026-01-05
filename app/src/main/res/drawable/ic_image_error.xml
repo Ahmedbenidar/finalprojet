@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FFEBEE" />
+            <corners android:radius="12dp" />
+            <stroke
+                android:width="1dp"
+                android:color="#EF9A9A" />
+        </shape>
+    </item>
+    <item
+        android:drawable="@android:drawable/ic_menu_report_image"
+        android:gravity="center"
+        android:width="48dp"
+        android:height="48dp"
+        android:tint="#EF5350" />
+</layer-list>

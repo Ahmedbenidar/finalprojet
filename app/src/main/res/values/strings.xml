@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">costumes</string>
+
+        <!-- ... autres strings ... -->
+
+        <!-- Messages de validation -->
+        <string name="required_field">Ce champ est requis</string>
+        <string name="invalid_email">Adresse email invalide</string>
+        <string name="password_too_short">Le mot de passe doit contenir au moins 8 caractères</string>
+        <string name="passwords_not_match">Les mots de passe ne correspondent pas</string>
+
+    <!-- Titres et messages -->
+
+    <string name="welcome">Bienvenue</string>
+    <string name="login_subtitle">Connectez-vous à votre compte</string>
+    <string name="create_account">Créer un compte</string>
+
+    <!-- Champs de formulaire -->
+    <string name="name">Nom</string>
+    <string name="email">Email</string>
+    <string name="phone">Téléphone</string>
+    <string name="address">Adresse</string>
+    <string name="password">Mot de passe</string>
+    <string name="confirm_password">Confirmer le mot de passe</string>
+
+    <!-- Boutons -->
+    <string name="login">Se connecter</string>
+    <string name="register">S\'inscrire</string>
+    <string name="refresh">Actualiser</string>
+    <string name="logout">Déconnexion</string>
+    <!-- Messages pour les costumes -->
+    <string name="no_costumes">Aucun costume disponible</string>
+    <string name="logout_confirm">Êtes-vous sûr de vouloir vous déconnecter ?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuler</string>
+
+    <!-- Liens -->
+    <string name="login_link">Déjà un compte ? Se connecter</string>
+    <string name="register_link">Pas de compte ? S\'inscrire</string>
+
+
+
+</resources>
